@@ -17,7 +17,7 @@ You may have been taught to follow one or more of the rules below by a well-inte
 
 ## "Never start a sentence with *But* or *And.*"
 
-But what about <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">Lincoln</a>? "But, in a larger sense, we can not dedicate&mdash;we can not consecrate&mdash;we can not hallow&mdash;this ground." And what about the King James Bible? "And the evening and the morning were the first day."
+But what about <a href="https://milnegeneseo.github.io/suny-geneseo-writing-guide/extras/gettysburg-address/" target="_blank">Lincoln</a>? "But, in a larger sense, we can not dedicate&mdash;we can not consecrate&mdash;we can not hallow&mdash;this ground." And what about the King James Bible? "And the evening and the morning were the first day."
 
 If you do begin a sentence with one of these conjunctions, we recommend that you follow it with a comma *only* if a modifying element intervenes between the conjunction and the subject of the sentence. In Lincoln's sentence, **in a larger sense** is such a modifying element. Without it, the sentence should begin, "But we can not dedicate." Don't write "But, we can not dedicate."
 
@@ -25,7 +25,7 @@ If you do begin a sentence with one of these conjunctions, we recommend that you
 
 ## "Never end a sentence with a preposition."
 
-Ending with a preposition does occasionally rob you of the opportunity to come down on a strong word. (See [Care and Imagination]({{ site.baseurl}}/principles/care-and-imagination) and [Strunk](http://www.bartleby.com/141/strunk.html#18).) The same holds for a clause within a sentence. Imagine <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">Lincoln</a> writing, "that from these honored dead we take increased devotion to that cause **which they gave the last full measure of devotion for.**"
+Ending with a preposition does occasionally rob you of the opportunity to come down on a strong word. (See [Care and Imagination]({{ site.baseurl}}/principles/care-and-imagination) and [Strunk](http://www.bartleby.com/141/strunk.html#18).) The same holds for a clause within a sentence. Imagine <a href="https://milnegeneseo.github.io/suny-geneseo-writing-guide/extras/gettysburg-address/" target="_blank">Lincoln</a> writing, "that from these honored dead we take increased devotion to that cause **which they gave the last full measure of devotion for.**"
 
 There is, however, no grammatical prohibition against ending with a preposition, and in some situations advancing the preposition to mid-sentence causes weird distortions, a point illustrated by Winston Churchill's waggish reference to "the sort of thing up with which I will not put."
 
@@ -43,7 +43,7 @@ Let rhythm and sense be your guides with infinitives. You certainly shouldn't sp
 
 ## "The only good sentence is a short sentence."
 
-The 81-word final sentence of Lincoln's <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">Gettysburg Address</a> illustrates the wrongheadedness of this assumption. So does the 181-word sentence that introduces Stephen Blackpool in Charles Dickens's *Hard Times*:
+The 81-word final sentence of Lincoln's <a href="https://milnegeneseo.github.io/suny-geneseo-writing-guide/extras/gettysburg-address/" target="_blank">Gettysburg Address</a> illustrates the wrongheadedness of this assumption. So does the 181-word sentence that introduces Stephen Blackpool in Charles Dickens's *Hard Times*:
 
 > In the hardest working part of Coketown; in the innermost fortifications of that ugly citadel, where Nature was as strongly bricked out as the killing airs and gases were bricked in; at the heart of the labyrinth of narrow courts upon courts, and close streets upon streets, which had come into existence piecemeal, every piece in a violent hurry for some one man's purpose, and the whole an unnatural family, shouldering and trampling, and pressing one another to death; in the last close nook of this great exhausted receiver, where the chimneys, for want of air to make a draught, were built in an immense variety of stunted and crooked shapes, as though every house put out a sign of the kind of people who might be expected to be born in it; among the multitude generically called "the Hands,"&mdash;a race who would have found more favor with some people, if Providence had seen fit to make them only hands, or, like the lower creatures of the seashore, only hands and stomachs&mdash;**lived** a certain **Stephen Blackpool**, forty years of age.
 

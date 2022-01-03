@@ -35,7 +35,7 @@ The [conventions]({{ site.baseurl}}/conventions/conventions-of-writing) of diffe
 
 ## Good writing has rhythm
 
-To see this point, let's look first at a familiar piece of good writing, Lincoln's <a href="https://writingguide.geneseo.edu/gettys.html" target="_blank">*Gettysburg Address*</a>. (Follow the link to open a new window with the full text of the address.) To be sure, few if any of your professors will ask you to write speeches, and the odds against a funeral oration are even longer. But the rhythms of good speechwriting are those of good writing generally--with a bit of exaggeration, which only makes them easier to see. We'll follow Lincoln's example with a humbler piece of writing, a single sentence from The New York *Times.*
+To see this point, let's look first at a familiar piece of good writing, Lincoln's <a href="https://milnegeneseo.github.io/suny-geneseo-writing-guide/extras/gettysburg-address/" target="_blank">*Gettysburg Address*</a>. (Follow the link to open a new window with the full text of the address.) To be sure, few if any of your professors will ask you to write speeches, and the odds against a funeral oration are even longer. But the rhythms of good speechwriting are those of good writing generally--with a bit of exaggeration, which only makes them easier to see. We'll follow Lincoln's example with a humbler piece of writing, a single sentence from The New York *Times.*
 
 ### *The Gettysburg Address*: Words
 
