@@ -23,9 +23,9 @@ permalink: /:title/
 # Set encoding to UTF-8
 encoding: utf-8
 
-# Collections for texts - adding in some testing ones, who - what - why
+# Collections for pages
 collections:
-  texts:
+  extras:
     output: true
   principles:
     output: true
