@@ -77,7 +77,7 @@ The word *have* in (4) is an example of the subjunctive, a verb form that has be
 
 "You mean to say that after all you are really going to be the kind of woman who the baker won't let near the bread?" asks a character in a Jamaica Kincaid story. In our written and spoken language, as in much of our other behavior, we express our identity. In our accents, some of our vocabulary, and even some of our sentence structures we may unconsciously reveal such characteristics as birthplace, education, social class, and ethnic heritage.
 
-Our language may also reveal personal qualities over which we have more control. How I speak and write says something about the *kind* of person I am÷how I think and act, what I believe, what I value. In "[The Decline of Grammar](http://www.theatlantic.com/issues/97mar/halpern/nunberg.htm)," linguist Geoffrey Nunberg quotes Joseph Epstein to explain his own aversion to the word *life-style*:
+Our language may also reveal personal qualities over which we have more control. How I speak and write says something about the *kind* of person I am÷how I think and act, what I believe, what I value. In "[The Decline of Grammar](https://www.pbs.org/speak/speech/correct/decline/)," linguist Geoffrey Nunberg quotes Joseph Epstein to explain his own aversion to the word *life-style*:
 
 > The objection to the word "lifestyle" is that it is at too many removes from reality; in its contemporary usage are implied a number of assumptions about life that are belied by experience. Chief among these is an assumption about the absolute plasticity of character&mdash;change your lifestyle, change your life&mdash;that is simply not true; and the popularity of the word "lifestyle" is testimony to how much people want to believe it.
 
