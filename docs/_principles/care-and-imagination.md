@@ -23,7 +23,7 @@ The pursuit of the right word should never lead to pretension or hairsplitting: 
 
 ## Language has a shelf life
 
-Clichés and other commonly used expressions make writing seem stale, and they convey the impression that you're incapable of thinking for yourself. Best to follow [Orwell's](http://www.resort.com/~prime8/Orwell/patee.html) advice here: "Never use a metaphor, simile, or other figure of speech which you are used to seeing in print."
+Clichés and other commonly used expressions make writing seem stale, and they convey the impression that you're incapable of thinking for yourself. Best to follow [Orwell's](https://archive.org/details/PoliticsAndTheEnglishLanguage/mode/2up) advice here: "Never use a metaphor, simile, or other figure of speech which you are used to seeing in print."
 
 <span id="levity"></span>
 
