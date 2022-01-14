@@ -17,8 +17,8 @@ toc:
     subfolderitems:
       - page: Conventions of Writing
         url: /conventions/conventions-of-writing
-      - page: Formal and Informal Writing
-        url: /conventions/formal-and-informal-writing
+      # - page: Formal and Informal Writing
+      #  url: /conventions/formal-and-informal-writing
       - page: Research and Writing
         url: /conventions/research-and-writing
       - page: Writing in a Discipline
